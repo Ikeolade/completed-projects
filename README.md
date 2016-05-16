@@ -1,2 +1,2 @@
 # completed-projects
-This repository will contain projects i have completed
+This repository contains projects i did.
